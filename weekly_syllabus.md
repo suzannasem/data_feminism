@@ -1,9 +1,4 @@
-# Data Feminism
-
-## Texts
-- [Community Review Site for Counting Feminicide: Data Feminism in Action](https://mitpressonpubpub.mitpress.mit.edu/counting-feminicide)
-- [Community Review Site for Data Feminism](https://data-feminism.mitpress.mit.edu/)
-
+# Weekly Syllabus Spring 2025
 
 ## Module 1: Building blocks of engaging with data feminism
 ### Week 1 (1/22/25): Introduction to Data Feminism
@@ -86,34 +81,47 @@ _________________________________________________
 #### Readings
 - [Data Feminism Chapter 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3?readingCollection=0cd867ef)
 - [Missing Data](https://dspace.mit.edu/handle/1721.1/157381)
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Group Discussion (Discussion Leaders 4, 5, 6)
+
 #### Assignment
 - Discussion Post 3
+___
 
 ### Week 6 (2/24/25): Data Processing (Rethink Binaries)
 #### Readings
 - [Data Feminism Chapter 4: "What Gets Counted Counts"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef)
 - [Why Collect Demographic Disability Data](https://dredf.org/charting-equality-why-demographic-disability-data-is-good-for-everyone/#_Toc155215191)
+
 #### Monday
 - In-class activity on preparing final project proposal
+
 #### Wednesday
 - Small Group Discussion (Discussion Leaders 7, 8, 9)
+
 #### Assignment
 - Discussion Post 4, Final Project Proposal
+____
 
 ### Week 7 (3/3/25): Data Analysis (Context)
 #### Readings
 - [Data Feminism Chapter 6: The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/3?readingCollection=0cd867ef)
-- 
+ 
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Coding activity on data lifecycle
+
 #### Assignment
 - Finish in-class activity 2 (Exercise 2)
+
+____
 
 ### Spring Break (3/10-3/12/25)
 
@@ -121,21 +129,29 @@ _________________________________________________
 #### Readings
 - Algorithms of Oppression Introduction (moodle)
 - Weapons of Math Destruction Introduction and Chapter 1 (moodle)
+
 #### Monday
 - [The Ethical Engine Project](https://github.com/evanpeck/ethical_engine/tree/master?tab=readme-ov-file)
+
 #### Wednesday
 - [IndieLabel Algorithm Audit](https://github.com/StanfordHCI/indie-label)
+
 #### Assignment
 - Finish In-class activity 3 (Exercise 3)
+
+____
 
 ### Week 9 (3/24/25): Data Visualization (Emotion)
 #### Readings
 - [Data Feminism Chapter 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5?readingCollection=0cd867ef)
 - [Visualization Rhetoric: Framing Effects in Narrative Visualization](https://ieeexplore.ieee.org/document/6064988)
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Small Group Discussion (Discussion Leaders 13, 14, 15)
+
 #### Assignment
 - Final Project: Data Description and Exploration
 - Discussion Post 5
@@ -147,61 +163,76 @@ ____________________________________________________
 #### Readings
 - [Data Feminism Chapter 7: Show Your Work](https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/3?readingCollection=0cd867ef)
 - [The Software That Shapes Workers’ Lives](https://www.newyorker.com/science/elements/the-software-that-shapes-workers-lives)
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Small group dicussion on readings
+
 #### Assignment
 - Dicussion Post 6
+_____
 
 ### Week 11 (4/7/25): Artificial Intelligence Tenants
 #### Readings
 - [Klein, L. & D'Ignazio, C. Data Feminism for AI](https://dl.acm.org/doi/10.1145/3630106.3658543)
 - Artificial Unintelligence Chapter 11: Third Wave AI (moodle)
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Coding activity 
+
 #### Assignment
 - Finish In-class activity 4 (Exercise 4)
+
+___
 
 ### Week 12 (4/14/25): Communicating Results 
 #### Readings
 - TBD
+
 #### Monday
 - In-class activity (pair and discuss data intiatives with peer feedback)
+
 #### Wednesday
 - Group Coding Activity
+
 #### Assignment
 - Finish in-class activity 5 (Exercise 5)
 - Final Project: Methods Analysis
+____
 
 ### Week 13 (4/21/25): Data Feminism in Action
 #### Readings
 - [Data Feminism Conclusion: Now Let's Multiply](https://data-feminism.mitpress.mit.edu/pub/a1ao95xs/release/4?readingCollection=0cd867ef)
 - [Data Feminism: Our Values and Our Metrics for Holding Ourselves Accountable](https://data-feminism.mitpress.mit.edu/pub/3hxh4l8o/release/2?readingCollection=0cd867ef)
+
 #### Monday
 - In-class activity
+
 #### Wednesday
 - Work class period for final projects
+
 #### Assignment
 - N/A
+
+____
 
 ### Week 14 (4/28/25): Final Projects
 #### Readings
 - No Readings
+
 #### Monday
 - Final Presentations
+
 #### Wednesday
 - Final Presentations
+
 #### Assignment
 - Presentation 
 - Final Report
 
-## Resources
-- [Annotated list of readings in Ethical Data Science](https://github.com/jknowles/ethical_data_science_reader)
-- [Video Discussion for each chapter in Data Feminism](https://datafeminism.io/blog/book/data-feminism-reading-group/)
-- [Data-Pop Alliance](https://datapopalliance.org/the-data-feminism-program-why-intersectionality-and-gender-equity-matters/)
-- [Data Feminism Session 1 - Interview with Catherine D'Ignazio](https://www.blog-datalab.com/home/data-feminism-event-series/)
-- [Data Feminism Session 2 - Gender Data Gaps with the chief of research and data at UN Women](https://www.blog-datalab.com/home/data-feminism-session-2/)
-- [Data Feminism Session 3 - Data Feminist Approaches (Actions)](https://www.blog-datalab.com/home/data-feminism-session-3/)
+____
