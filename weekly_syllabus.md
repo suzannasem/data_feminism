@@ -9,56 +9,74 @@
 ### Week 1 (1/22/25): Introduction to Data Feminism
 #### Readings
 - No readings
+
 #### Monday
 - No class (MLK Day)
+
 #### Wednesday
 - Introduce the syllabus and an introduction to data feminism 
 - Fill out survey
 - Small group activity (time permitting)
+
 #### Assignment
 - Read the syllabus closely and be prepared with questions for Monday
 - Make powerpoint slide
 
+____
+
 ### Week 2 (1/27/25): Examining Power Structures
-#### Readings
+#### Readings (due Monday 1/27)
 - [Data Feminism Introduction: Why Data Science Needs Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef)
 - [Data Feminism Chapter 1: The Power Chapter](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4?readingCollection=0cd867ef)
 - [Combahee River Collective](https://www.jstor.org/stable/24365010?seq=1) (Moodle)
+
 #### Monday
 - Questions about syllabus 
+- [Principles of Data Feminism Activity](workshops/week2/principles_scenario_activity.docx)
 - Large group discussion (Alyssa as discussion leader)
-#### Wednesday
-- Power Activity - examine datasets and answer questions about sources of power
-#### Assignment 
-- Discussion Post 1 Questions due Monday
-- Discussion Post 1 due Wednesday 9am
-- Sign up for discussion week 
 
+#### Wednesday
+- [Power Activity](workshops/week2/matrix_domination_dataset_activity.docx) - examine datasets and answer questions about sources of power
+
+#### Assignment 
+- Discussion Post 1 Questions due Monday 1/27 at 9PM
+- Discussion Post 1 due Wednesday 1/29 at 1:10PM
+- Sign up for discussion week
+
+___
 
 ### Week 3 (2/3/25): Introduction to Coding Basics
-#### Readings
+#### Readings (due Monday 2/3)
 - [Wilkinson et al. "The FAIR Guiding Principles for scientific data management and stewardship"](https://www.nature.com/articles/sdata201618) (Moodle)
 - [FAIRification Process](https://www.go-fair.org/fair-principles/fairification-process/) 
 - [Counterdata](https://datasociety.net/wp-content/uploads/2024/04/Keywords_Counterdata_Olojo_04242024.pdf)
 - [Counting Feminicide Chapter 8: A Toolkit for Counterdata Science](https://mitpressonpubpub.mitpress.mit.edu/pub/cf-chap8/release/2?readingCollection=16608c58)
+
 #### Monday
 - Create a GitHub account
-- Walk through an introduction to Python as a class 
+- Walk through an [Introduction to Python](workshops/week3/week3_introPython.ipynb) as a class 
+
 #### Wednesday
-- Small group coding activity 
+- Exercise 1: Group Coding Activity - [Hiring Filter Reflection](workshops/week3/hiring_application_activity.ipynb)
+
 #### Assignment
-- Complete Group Activity and Personal Reflection (Exercise 1)
+- Complete Group Activity and Personal Reflection (Exercise 1) due Sunday 2/9 at 11:59 PM
+
+____
 
 ### Week 4 (2/10/25): Challenging Data Neutrality
-#### Readings
+#### Readings (due Monday 2/10)
 - [Data Feminism Chapter 2: Collect, Analyze, Imagine, Teach](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef)
 - Race After Technology Introudction: The New Jim Code (moodle)
+
 #### Monday
-- Examine Data Initiatives 
+- Examine Data Initiatives from Counting Feminicide Chapter 8
+
 #### Wednesday
-- Group Discussion (Discussion Leaders 1, 2, 3)
+- Group Discussion (Discussion Leaders 1, 2, 3, 4, 5)
+
 #### Assignment 
-- Discussion Post 2 
+- Discussion Post 2 due Wednesday 2/12 at 1:10PM 
 
 _________________________________________________
 
