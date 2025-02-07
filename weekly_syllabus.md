@@ -90,6 +90,7 @@ _________________________________________________
 
 #### Assignment
 - Discussion Post 3
+
 ___
 
 ### Week 6 (2/24/25): Data Processing (Rethink Binaries)
@@ -105,6 +106,7 @@ ___
 
 #### Assignment
 - Discussion Post 4, Final Project Proposal
+
 ____
 
 ### Week 7 (3/3/25): Data Analysis (Context)
@@ -155,6 +157,7 @@ ____
 #### Assignment
 - Final Project: Data Description and Exploration
 - Discussion Post 5
+
 ____________________________________________________
 
 ## Module 3: Looking to the Future 
@@ -172,6 +175,7 @@ ____________________________________________________
 
 #### Assignment
 - Dicussion Post 6
+
 _____
 
 ### Week 11 (4/7/25): Artificial Intelligence Tenants
@@ -203,6 +207,7 @@ ___
 #### Assignment
 - Finish in-class activity 5 (Exercise 5)
 - Final Project: Methods Analysis
+
 ____
 
 ### Week 13 (4/21/25): Data Feminism in Action
