@@ -68,7 +68,7 @@ ____
 - Examine Data Initiatives from Counting Feminicide Chapter 8
 
 #### Wednesday
-- Group Discussion (Discussion Leaders 1, 2, 3, 4, 5)
+- Group Discussion (Discussion Leaders Group 1)
 
 #### Assignment 
 - Discussion Post 2 due Wednesday 2/12 at 1:10PM 
@@ -86,7 +86,7 @@ _________________________________________________
 - In-class activity
 
 #### Wednesday
-- Group Discussion (Discussion Leaders 4, 5, 6)
+- Group Discussion (Discussion Leaders Group 2)
 
 #### Assignment
 - Discussion Post 3
@@ -102,7 +102,7 @@ ___
 - In-class activity on preparing final project proposal
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders 7, 8, 9)
+- Small Group Discussion (Discussion Leaders Group 3)
 
 #### Assignment
 - Discussion Post 4, Final Project Proposal
@@ -152,7 +152,7 @@ ____
 - In-class activity
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders 13, 14, 15)
+- Small Group Discussion (Discussion Leaders Group 4)
 
 #### Assignment
 - Final Project: Data Description and Exploration
@@ -171,7 +171,7 @@ ____________________________________________________
 - In-class activity
 
 #### Wednesday
-- Small group dicussion on readings
+- Small Group Discussion (Discussion Leaders Group 5)
 
 #### Assignment
 - Dicussion Post 6
