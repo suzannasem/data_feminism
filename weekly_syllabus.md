@@ -1,3 +1,4 @@
+
 # Weekly Syllabus Spring 2025
 
 ## Module 1: Building blocks of engaging with data feminism
@@ -49,10 +50,10 @@ ___
 
 #### Monday
 - Create a GitHub account
-- Walk through an [Introduction to Python](workshops/week3/week3_introPython.ipynb) as a class 
+- Walk through an [Introduction to Python](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week3/week3_introPython.ipynb) as a class 
 
 #### Wednesday
-- Exercise 1: Group Coding Activity - [Hiring Filter Reflection](workshops/week3/hiring_application_activity.ipynb)
+- Exercise 1: Group Coding Activity - [Hiring Filter Reflection](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week3/hiring_application_activity.ipynb)
 
 #### Assignment
 - Complete Group Activity and Personal Reflection (Exercise 1) due Sunday 2/9 at 11:59 PM
@@ -65,7 +66,7 @@ ____
 - Race After Technology Introudction: The New Jim Code (moodle)
 
 #### Monday
-- Examine Data Initiatives from Counting Feminicide Chapter 8
+- [NSF Grant Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis.ipynb) - [Complete Version](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis_COMPLETE.ipynb)
 
 #### Wednesday
 - Group Discussion (Discussion Leaders Group 1)
