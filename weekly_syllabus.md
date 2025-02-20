@@ -2,6 +2,8 @@
 # Weekly Syllabus Spring 2025
 
 ## Module 1: Building blocks of engaging with data feminism
+________________________________________________________
+
 ### Week 1 (1/22/25): Introduction to Data Feminism
 #### Readings
 - No readings
@@ -69,7 +71,7 @@ ____
 - [NSF Grant Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis.ipynb) - [Complete Version](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis_COMPLETE.ipynb)
 
 #### Wednesday
-- Group Discussion (Discussion Leaders Group 1)
+- Group Discussion (Discussion Leaders Group 1) - [Discussion Questions]()
 
 #### Assignment 
 - Discussion Post 2 due Wednesday 2/12 at 1:10PM 
@@ -77,6 +79,8 @@ ____
 _________________________________________________
 
 ## Module 2: Engaging in the Data Lifecycle 
+
+_________________________________________________
 
 ### Week 5 (2/17/25): Data Collection (Pluralism)
 #### Readings
@@ -90,9 +94,9 @@ _________________________________________________
 - Group Discussion (Discussion Leaders Group 2)
 
 #### Assignment
-- Discussion Post 3
+- Discussion Post 3 due Wednesday 2/19 at 1:10 PM 
 
-___
+_____________________________________
 
 ### Week 6 (2/24/25): Data Processing (Rethink Binaries)
 #### Readings
@@ -106,9 +110,10 @@ ___
 - Small Group Discussion (Discussion Leaders Group 3)
 
 #### Assignment
-- Discussion Post 4, Final Project Proposal
+- Discussion Post 4 due Wednesday 2/26 at 1:10 PM
+- Final Project Proposal due Sunday 3/2 at 11:59 PM
 
-____
+_________________________________
 
 ### Week 7 (3/3/25): Data Analysis (Context)
 #### Readings
@@ -122,11 +127,13 @@ ____
 - Coding activity on data lifecycle
 
 #### Assignment
-- Finish in-class activity 2 (Exercise 2)
+- Finish in-class activity 2 (Exercise 2) due Friday 3/7 at 11:59 PM
 
 ____
 
 ### Spring Break (3/10-3/12/25)
+
+______
 
 ### Week 8 (3/17/25): Algorithmic Bias in Data Analysis 
 #### Readings
@@ -140,7 +147,7 @@ ____
 - [IndieLabel Algorithm Audit](https://github.com/StanfordHCI/indie-label)
 
 #### Assignment
-- Finish In-class activity 3 (Exercise 3)
+- Finish In-class activity 3 (Exercise 3) due Friday 3/21 at 11:59 PM 
 
 ____
 
@@ -156,12 +163,14 @@ ____
 - Small Group Discussion (Discussion Leaders Group 4)
 
 #### Assignment
-- Final Project: Data Description and Exploration
-- Discussion Post 5
+- Discussion Post 5 due Wednesday 3/26 at 1:10 PM
+- Final Project: Data Description and Exploration due Sunday 3/30 at 11:59 PM
 
 ____________________________________________________
 
 ## Module 3: Looking to the Future 
+
+____________________________________________________
 
 ### Week 10 (3/31/25): Collaborative Data (Labor)
 #### Readings
@@ -175,7 +184,7 @@ ____________________________________________________
 - Small Group Discussion (Discussion Leaders Group 5)
 
 #### Assignment
-- Dicussion Post 6
+- Dicussion Post 6 due Wednesday 4/2 at 1:10 PM
 
 _____
 
@@ -191,7 +200,7 @@ _____
 - Coding activity 
 
 #### Assignment
-- Finish In-class activity 4 (Exercise 4)
+- Finish In-class activity 4 (Exercise 4) due Friday 4/11 at 11:59 PM
 
 ___
 
@@ -206,8 +215,8 @@ ___
 - Group Coding Activity
 
 #### Assignment
-- Finish in-class activity 5 (Exercise 5)
-- Final Project: Methods Analysis
+- Final Project: Methods Analysis due Friday 4/18 at 11:59 PM
+- Finish in-class activity 5 (Exercise 5) due Friday 4/18 at 11:59 PM
 
 ____
 
