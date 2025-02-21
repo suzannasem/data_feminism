@@ -30,11 +30,12 @@ ____
 
 #### Monday
 - Questions about syllabus 
-- [Principles of Data Feminism Activity](workshops/week2/principles_scenario_activity.docx)
-- Large group discussion (Alyssa as discussion leader)
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week2/week2_jan27.pdf) - Large group discussion (Alyssa as discussion leader)
+- [Principles of Data Feminism Activity](workshops/week2/principles_scenario_activity.md)
 
 #### Wednesday
-- [Power Activity](workshops/week2/matrix_domination_dataset_activity.docx) - examine datasets and answer questions about sources of power
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week2/week_2_jan29.pdf)
+- [Power Activity](workshops/week2/matrix_domination_dataset_activity.md) - examine datasets and answer questions about sources of power
 
 #### Assignment 
 - Discussion Post 1 Questions due Monday 1/27 at 9PM
@@ -68,10 +69,11 @@ ____
 - Race After Technology Introudction: The New Jim Code (moodle)
 
 #### Monday
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week4/week4.pdf)
 - [NSF Grant Analysis](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis.ipynb) - [Complete Version](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week4/nsf_award_analysis_COMPLETE.ipynb)
 
 #### Wednesday
-- Group Discussion (Discussion Leaders Group 1) - [Discussion Questions]()
+- Group Discussion (Discussion Leaders Group 1) - [Discussion Questions](workshops/week4/week4_discussion_questions.md)
 
 #### Assignment 
 - Discussion Post 2 due Wednesday 2/12 at 1:10PM 
@@ -88,10 +90,11 @@ _________________________________________________
 - [Missing Data](https://dspace.mit.edu/handle/1721.1/157381)
 
 #### Monday
-- In-class activity
+- [Slides](https://github.com/ampivirotto/data_feminism/blob/main/slides/week5/week5.pdf)
+- [Counter Data Activity](workshops/week5/counter_data_activity.md)
 
 #### Wednesday
-- Group Discussion (Discussion Leaders Group 2)
+- Group Discussion (Discussion Leaders Group 2) - [Discussion Questions](workshops/week5/week5_discussion_questions.md)
 
 #### Assignment
 - Discussion Post 3 due Wednesday 2/19 at 1:10 PM 
@@ -104,7 +107,7 @@ _____________________________________
 - [Why Collect Demographic Disability Data](https://dredf.org/charting-equality-why-demographic-disability-data-is-good-for-everyone/#_Toc155215191)
 
 #### Monday
-- In-class activity on preparing final project proposal
+- Data Cleaning Activity 
 
 #### Wednesday
 - Small Group Discussion (Discussion Leaders Group 3)
