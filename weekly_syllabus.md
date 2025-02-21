@@ -1,6 +1,8 @@
 
 # Weekly Syllabus Spring 2025
 
+_______________________________________________________
+
 ## Module 1: Building blocks of engaging with data feminism
 ________________________________________________________
 
