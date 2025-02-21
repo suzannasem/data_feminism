@@ -1,4 +1,4 @@
-# Final Project: 
+# Final Project 
 
 This will be a semester-long project where you identify a real-world
 problem and analyze a corresponding data initiative. Your analysis will

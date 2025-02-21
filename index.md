@@ -1,4 +1,7 @@
-# Power, Pluralism, & Parity: Intersection Data Feminism 
+
+# Intersectional Data Feminism 
+
+## Power, Pluralism, and Parity: Intersectional Data Feminism
 
 ## Spring 2025
 

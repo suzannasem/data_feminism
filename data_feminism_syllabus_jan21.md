@@ -1,3 +1,5 @@
+# Syllabus
+
 Spring 2025
 
 > **Section:** 001
