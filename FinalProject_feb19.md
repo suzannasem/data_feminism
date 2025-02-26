@@ -4,8 +4,6 @@ filename: FinalProject_feb19.md
 --- 
 
 
-# Final Project 
-
 This will be a semester-long project where you identify a real-world
 problem and analyze a corresponding data initiative. Your analysis will
 critically examine the effort through either the data feminist framework
