@@ -1,9 +1,17 @@
+---
+title: Spring 2025 Weekly Schedule 
+layout: template
+filename: weekly_syllabus.md
+--- 
+
 
 # Weekly Syllabus Spring 2025
 
 _______________________________________________________
 
 ## Module 1: Building blocks of engaging with data feminism
+
+Module 1 will introduce us to the fundamentals of data feminism with a focus on identifying and challenging power structures in the act of data collection, analysis, and communication with a specific emphasis on who is counted in many data initiatives. Along with this, we will begin to learn Python skills to better engage in the material through hands-on, interactive workshops. 
 ________________________________________________________
 
 ### Week 1 (1/22/25): Introduction to Data Feminism
@@ -84,6 +92,7 @@ _________________________________________________
 
 ## Module 2: Engaging in the Data Lifecycle 
 
+Module 2 will have us focus on the data lifecycle from collection to usage. This will include examination of data collection practices, data cleaning procedures, data analysis, algorithm usage, and data visualization. For each aspect of the data ecosystem, we will focus on one key principle of the data feminism ethical framework highlighting specific considerations and questions at each step. In addition to the focus on the ethical framework, we will also learn some practical skills to processing and using data via Python workshops. 
 _________________________________________________
 
 ### Week 5 (2/17/25): Data Collection (Pluralism)
@@ -109,10 +118,10 @@ _____________________________________
 - [Why Collect Demographic Disability Data](https://dredf.org/charting-equality-why-demographic-disability-data-is-good-for-everyone/#_Toc155215191)
 
 #### Monday
-- Data Cleaning Activity 
+- [Data Cleaning Activity](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning.ipynb) - [Completed Notebook](https://github.com/ampivirotto/data_feminism/blob/main/workshops/week6/data_cleaning_complete.ipynb)
 
 #### Wednesday
-- Small Group Discussion (Discussion Leaders Group 3)
+- Small Group Discussion (Discussion Leaders Group 3) - [Discussion Questions]()
 
 #### Assignment
 - Discussion Post 4 due Wednesday 2/26 at 1:10 PM

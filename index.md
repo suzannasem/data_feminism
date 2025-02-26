@@ -1,7 +1,10 @@
+---
+title: Intersectional Data Feminism
+layout: template
+filename: index.md
+--- 
 
-# Intersectional Data Feminism 
-
-## Power, Pluralism, and Parity: Intersectional Data Feminism
+# Power, Pluralism, and Parity: Intersectional Data Feminism
 
 ## Spring 2025
 

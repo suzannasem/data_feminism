@@ -1,3 +1,10 @@
+---
+title: Final Project 
+layout: template
+filename: FinalProject_feb19.md
+--- 
+
+
 # Final Project 
 
 This will be a semester-long project where you identify a real-world
