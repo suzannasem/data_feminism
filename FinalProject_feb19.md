@@ -23,9 +23,8 @@ used to address the problem.
     coding, analyzing the sources -- but please write up your written
     analysis yourself.
 
-## 
 
-## Part 1: Project Proposal (Due Sunday March 2^nd^ at 11:59 PM)
+## Part 1: Project Proposal (Due Sunday March 2 at 11:59 PM)
 
 Objective: Identify a real-world problem and a corresponding data
 initiative that aims to address it. Provide an initial critical analysis
@@ -51,7 +50,8 @@ Requirements:
 
 Length: \~2-page written proposal
 
-## Part 2: Data Description & Exploration (Due Sun March 23^rd^ 11:59 PM)
+
+## Part 2: Data Description & Exploration (Due Sun March 23 11:59 PM)
 
 Objective: Critically analyze the data used in the data initiative and
 the methodologies utilized in the collection and analysis of the data.
@@ -74,7 +74,7 @@ Requirements:
 Length: 3- to 5-page written analysis, text optionally supplemented with
 code/notebooks
 
-## Part 3: Comparative Methods Analysis (Due: [Friday]{.mark} April 18^th^ 11:59 PM)
+## Part 3: Comparative Methods Analysis (Due: Friday April 18 11:59 PM)
 
 Objective: Compare different ways this problem might be addressed by
 other data efforts assessing their alignment with your ethical framework
@@ -122,7 +122,7 @@ Requirements:
 
 Length: 15 minutes total: 10-12 minutes plus questions
 
-## Part 4.2: Final Paper (Due: May 10^th^ 5PM (Seniors) and May 16^th^ 12:30PM (all other students)) 
+## Part 4.2: Final Paper (Due: May 10 5PM (Seniors) and May 16 12:30PM (all other students)) 
 
 Objective: Incorporating feedback from previous assignments and the
 presentation, summarize your findings about your data initiative of
@@ -151,7 +151,8 @@ Requirements:
 
 Length: 7-to-10-page final write-up
 
-Collaboration Policy:\
+## Collaboration Policy:
+
 Students are encouraged to collaborate on research, data analysis, and
 coding. You may work in a group to gather sources, explore datasets,
 develop visualizations, and critically discuss the data effort from the
