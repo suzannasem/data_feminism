@@ -1,6 +1,5 @@
 ---
 title: Spring 2025 Weekly Schedule 
-layout: template
 filename: weekly_syllabus.md
 --- 
 

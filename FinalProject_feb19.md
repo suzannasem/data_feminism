@@ -1,6 +1,5 @@
 ---
 title: Final Project 
-layout: template
 filename: FinalProject_feb19.md
 --- 
 

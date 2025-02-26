@@ -1,6 +1,5 @@
 ---
 title: Intersectional Data Feminism
-layout: template
 filename: index.md
 --- 
 

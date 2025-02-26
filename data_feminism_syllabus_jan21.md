@@ -1,6 +1,5 @@
 ---
 title: Spring 2025 Syllabus 
-layout: template
 filename: data_feminism_syllabus_jan21.md
 --- 
 
